@@ -1,0 +1,4 @@
+/home/kuset/repos/dev/temp/metric_lib/build/CMakeFiles/metrics_lib.dir
+/home/kuset/repos/dev/temp/metric_lib/build/CMakeFiles/run_example.dir
+/home/kuset/repos/dev/temp/metric_lib/build/CMakeFiles/edit_cache.dir
+/home/kuset/repos/dev/temp/metric_lib/build/CMakeFiles/rebuild_cache.dir
