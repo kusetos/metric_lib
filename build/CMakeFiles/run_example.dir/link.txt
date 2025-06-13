@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_example.dir/examples/main.cpp.o -o run_example  libmetrics_lib.a -lpthread 
